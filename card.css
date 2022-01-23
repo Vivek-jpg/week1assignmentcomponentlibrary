@@ -99,6 +99,7 @@ h3{
     font-size: 14px;
     font-family: sans-serif;
     color: RGB(98, 0, 237);
+    border: none;
 }
 .icon{
     width: 32px;
