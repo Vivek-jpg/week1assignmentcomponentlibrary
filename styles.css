@@ -38,28 +38,29 @@ body{
     width: 239px;
     height: 40px;
     font-weight: 600;
-    color: rgb(124, 10, 206);
+    color: rgb(22, 22, 22);
+    padding-top: 6px;
 
 }
 h3{
-    color: rgb(88, 0, 129);
+    color: RGB(98, 0, 237);
     size: 12px;
 }
 .far {
     width: 40px;
-    color: indigo;
+    color: rgb(53, 53, 53);
     
 }
 .fas {
     width: 40px;
     height: 40px;
-    color: indigo;
+    color: rgb(80, 80, 80);
 }
 h2{
-    color: indigo;
+    color: rgb(27, 27, 27);
 }
 .component:hover{
-   background-color: whitesmoke;
+   background-color: rgba(175, 131, 247, 0.527);
    border-radius: 4px;
    height: 40px;
 }
