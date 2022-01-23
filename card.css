@@ -108,3 +108,7 @@ h3{
     color: white;
     border: none;
 }
+.icon-side{
+    display: flex;
+    align-self: flex-end;
+}
