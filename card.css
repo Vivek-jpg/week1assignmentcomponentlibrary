@@ -105,7 +105,7 @@ h3{
     width: 32px;
     height: 32px;
     margin-top:4px ;
-    background-color: rgba(34, 27, 36, 0);
+    background-color: rgba(32, 27, 36, 0);
     color: white;
     border: none;
 }
@@ -117,8 +117,8 @@ h3{
     
 }
 .icon1{
-    width: 32px;
-    height: 32px;
+    width: 35px;
+    height: 35px;
     margin-top:4px ;
     background-color: rgba(23, 13, 26, 0.034);
     color: white;
