@@ -2,30 +2,34 @@
     margin: 0; padding: 0; box-sizing: border-box;
 }
 body{
-    background-color: rgba(249, 223, 255, 0.856);
+    background-color: rgba(19, 14, 20, 0.856);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
 
 .card{
-    
+    width: 350px;
     height: 360px;
     display: flex;
     flex-direction: column;
-    
+    box-shadow: 1px 2px 2px white;
+    margin: 50px;
+    border-radius: 3px 24px 3px 24px;
     
 }
 img{
     width: 350px;
     height: 196px;
-    overflow: hidden;
+    
+    border-radius: 3px  24px 0px 0px;
 
 }
 h2{
     width: 318 px;
     height: 32 px;
     font-size: 20px;
+    color: honeydew;
 
 }
 .heading{
@@ -40,6 +44,13 @@ h3{
     font-size: 14px;
     color: gray;
 }
-p{
-    
+
+.para{
+    width: 318px;
+    height: 48px;
+    padding: 0px 16px 8px ;
+    font-size: 14px;
+    font-weight: 500;
+    color: honeydew;
+
 }
