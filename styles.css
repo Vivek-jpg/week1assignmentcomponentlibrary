@@ -1,57 +1,65 @@
 *{
     margin: 0; padding: 0; box-sizing: border-box;
 }
-.mdc-card {
-    background-color: rgb(142, 236, 236);
-    width: 100%;
-    height: 450px;
+body{
+    background-color: rgb(17, 6, 16);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
 
-}
-.mdc-card__primary-action {
-    background-color: blanchedalmond;
-    display: flex;
-    width:350px;
-    height: 162px;
-
-}
-.mdc-card__media {
-    background-color: rgb(132, 14, 241);
-    height: 110;
-    width: 110;
-    display: flex;
-}
-.demo-card__primary{
+.container{
+    width: 255px;
+    height: 264px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    box-shadow: 1px 2px 2px white;
     display: flex;
     flex-direction: column;
-    margin-left: 110px;
+    
+    
 }
-.mdc-typography--headline6 {
-    font-family: Roboto,sans-serif;
-}
-h2
-  {
-    display: block;
-    font-size: 1.5em;
-   width: 188.9px;
-   height: 32px;
+.header{
+    padding: 0px 16px 4px;
+    
+
+
 
 }
-h3 {
+.main-component{
     display: flex;
-    justify-content: flex-start;
-    font-size: 1.17em;
-    margin-block-start: 1em;
-    width: 188.9px;
-    height: 22px;
-    color: gray;
-    padding-top: 8px;
+    flex-direction: column;
+    width: 255px;
+   
+    margin: 8px 0px;
+
 }
-.mdc-card__actions{
-    display: flex;
-    justify-content: space-between;
-    width: 350px;
+.component{
+    font-size: 18px; 
+    margin: 2px 8px 8px;
+    padding: 0px 8px;
+    width: 239px;
     height: 40px;
-    background-color: white;
-    align-items: center;
+    font-weight: 600;
+    color: rgb(124, 10, 206);
 
+}
+h3{
+    color: rgb(88, 0, 129);
+    size: 12px;
+}
+.far {
+    width: 40px;
+    color: indigo;
+    
+}
+.fas {
+    width: 40px;
+    height: 40px;
+    color: indigo;
+}
+h2{
+    color: indigo;
+}
+.component:hover{
+   background-color: whitesmoke;
+   border-radius: 4px;
+   height: 40px;
 }
