@@ -2,7 +2,7 @@
     margin: 0; padding: 0; box-sizing: border-box;
 }
 body{
-    background-color: rgba(19, 14, 20, 0.856);
+    background-color: rgba(23, 13, 26, 0.856);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -110,5 +110,18 @@ h3{
 }
 .icon-side{
     display: flex;
-    align-self: flex-end;
+    justify-content: flex-end;
+    width: 350px;
+
+    
+}
+.icon1{
+    width: 32px;
+    height: 32px;
+    margin-top:4px ;
+    background-color: rgba(23, 13, 26, 0.034);
+    color: white;
+    border: none;
+    justify-content: space-between;
+
 }
