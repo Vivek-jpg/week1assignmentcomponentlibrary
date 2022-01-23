@@ -54,3 +54,7 @@ h3{
     color: honeydew;
 
 }
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
