@@ -28,10 +28,12 @@ body{
         font-size: 20px;
         font-weight:600 ;
         color: white;
-        margin-left: 8px;
+      
        
     }
    .align-end{
+       display: flex;
+       justify-content: space-evenly;
      
        
 
