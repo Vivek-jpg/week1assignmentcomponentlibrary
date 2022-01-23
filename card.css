@@ -125,3 +125,12 @@ h3{
     justify-content: space-between;
 
 }
+.icon:hover{
+    background-color: rgba(216, 191, 216, 0.247);
+    border-radius: 27px;
+}
+.title:hover{
+    background-color: rgb(235, 208, 235);
+   
+
+}
