@@ -134,3 +134,17 @@ h3{
    
 
 }
+.para1:hover{
+    background-color: rgba(235, 208, 235, 0.11);
+    border-radius: 4px;
+    height: 60px;
+    padding: 3px;
+
+}
+.para:hover{
+    background-color: rgba(235, 208, 235, 0.11);
+    border-radius: 4px;
+    height: 60px;
+    padding: 3px;
+
+}
