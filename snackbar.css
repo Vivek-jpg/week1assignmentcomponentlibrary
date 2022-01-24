@@ -1,0 +1,51 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.wrapper{
+    
+    height: 48px;
+    background-color: #333333;
+    display: inline-block;
+    border-radius: 4px;
+    position: fixed;
+    bottom: 20px ;
+    left: 20px;
+
+
+}
+button{
+    width: 65px;
+    height: 36px;
+    border-radius: 3px;
+    border: none;
+    font-weight: 600;
+    color: rgb(124, 70, 175);
+    background-color: #333333;
+    font-size: 14px;
+    
+}
+.fas {
+    width: 36px;
+    height: 36px;
+    padding: 9px;
+    margin: 0px 0px 0px 8px;
+    font: 16px;
+    color: blanchedalmond;
+
+}
+.snackbar{
+    padding: 8px;
+    
+    color: blanchedalmond;
+}
+.fas:hover{
+    background-color: rgba(240, 248, 255, 0.11);
+    border-radius: 50%;
+    
+}
+
+    
