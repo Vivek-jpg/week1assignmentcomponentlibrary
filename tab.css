@@ -13,13 +13,13 @@ body{
     padding:  2px;
 }
 .tab-icon{
-    background-color: rgb(62, 12, 201);
+    background-color: rgba(60, 22, 163, 0.582);
     border-radius: 3px;
     display: flex;
     justify-content: flex-end;
     padding: 3px;
     font-weight: 500;
-    color: rgb(29, 29, 29);
+    color: rgb(48, 48, 48);
 }
 .far{
     width: 16px;
