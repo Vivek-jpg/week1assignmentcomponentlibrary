@@ -5,3 +5,12 @@ body{
     background-color: rgb(26, 31, 58);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.tab{
+    width: 400px;
+    height: 745px;
+    background-color: aliceblue;
+    border-radius: 3px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px 6px;
+}
