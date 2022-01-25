@@ -8,7 +8,7 @@ body{
 .tab{
     width: 400px;
     height: 745px;
-    background-color: aliceblue;
+    background-color: rgba(60, 22, 163, 0.582);
     border-radius: 3px;
     padding:  2px;
 }
@@ -40,6 +40,54 @@ body{
     margin: 4px;
 
     
+}
+.menu{
+    width: 20px;
+    height: 20px;
+    border: none;
+    color: rgb(32, 32, 32);
+    font-size: 20px;
+    padding: px;
+    background-color: cornsilk;
+
+}
+.title{
+    padding: 0px 0px 0px 16px ;
+    font-size: 20px;
+    font-weight:600 ;
+    color: rgb(27, 27, 27);
+    width: 175px;
+    height: 32px;
+  
+   
+}
+.align-end{
+   display: flex;
+   justify-content: space-evenly;
+ 
+   
+
+}
+.mdc-icon{
+
+border: none;
+color: rgb(36, 36, 36);
+font-size: 20px;padding: 4px;
+align-self: center;
+background-color: rgb(255, 255, 255);
+
+
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.header1{
+    background-color: rgb(255, 255, 255);
+    height: 8rem;
 }
 
 
