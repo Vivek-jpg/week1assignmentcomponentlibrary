@@ -25,11 +25,21 @@ body{
     width: 16px;
     height: 16px;
     align-items: center;
+    margin: 4px;
 }
 .fas {
     width: 16px;
     height: 16px;
     align-items: center;
+    margin: 4px;
+}
+.fas{
+    width: 16px;
+    height: 16px;
+    align-items: center;
+    margin: 4px;
+
+    
 }
 
-}
+
