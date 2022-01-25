@@ -42,6 +42,7 @@ body{
     
 }
 .menu{
+    margin-top: 1rem;
     width: 20px;
     height: 20px;
     border: none;
@@ -69,7 +70,7 @@ body{
 
 }
 .mdc-icon{
-
+margin-top: 1rem;
 border: none;
 color: rgb(36, 36, 36);
 font-size: 20px;padding: 4px;
@@ -88,6 +89,22 @@ background-color: rgb(255, 255, 255);
 .header1{
     background-color: rgb(255, 255, 255);
     height: 8rem;
+}
+.chip{
+
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 251, 255);
+    margin-top: 2rem;  
+}
+.chip-card{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem; 
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(113, 114, 113);
+
 }
 
 
