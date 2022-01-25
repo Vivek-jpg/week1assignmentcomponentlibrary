@@ -10,7 +10,26 @@ body{
     height: 745px;
     background-color: aliceblue;
     border-radius: 3px;
+    padding:  2px;
+}
+.tab-icon{
+    background-color: rgb(62, 12, 201);
+    border-radius: 3px;
     display: flex;
     justify-content: flex-end;
-    padding: 0px 6px;
+    padding: 3px;
+    font-weight: 500;
+    color: rgb(29, 29, 29);
+}
+.far{
+    width: 16px;
+    height: 16px;
+    align-items: center;
+}
+.fas {
+    width: 16px;
+    height: 16px;
+    align-items: center;
+}
+
 }
