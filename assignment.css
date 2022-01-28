@@ -14,7 +14,7 @@ body{
     padding: 15px;
 
 }
-h2{
+.head{
     display: flex;
     justify-content: center;
     align-items: center;
