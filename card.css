@@ -157,3 +157,39 @@ h3{
    
 
 }
+/*header*/
+.nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 16px;
+    background-color: rgba(245, 155, 21, 0.397);
+    border-radius: 10px;
+    margin: 8px;
+
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(46, 46, 46);
+
+}
+.header{
+    background-color: rgb(255, 174, 0);
+    height: 8rem ;
+
+
+}
+a{
+    text-decoration: none;
+    font-family:  serif;
+    font-weight: 600;
+    color: cornsilk;
+    background-color: rgba(252, 203, 99, 0.452);
+    padding: 8px;
+    border-radius: 8px;
+}
+a:hover{
+    background-color:rgba(245, 245, 245, 0.425) ;
+    
+}
