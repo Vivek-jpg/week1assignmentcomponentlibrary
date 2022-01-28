@@ -152,6 +152,7 @@ h3{
 .allignment
 {
     display: flex;
+    flex-wrap: wrap;
     
    
 
